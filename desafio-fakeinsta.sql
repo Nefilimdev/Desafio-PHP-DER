@@ -1,6 +1,6 @@
-CREATE DATABASE desafio-fakeinsta;
+CREATE DATABASE fakeinsta;
 
-USE desafio-fakeinsta;
+USE fakeinsta;
 
 CREATE TABLE users (
 	id INT PRIMARY KEY AUTO_INCREMENT,
